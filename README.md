@@ -63,8 +63,7 @@
 </div>
 
 <br />
-<!--
-<h3 align="center">GitHub Stats</h3>
+<!--<h3 align="center">GitHub Stats</h3>
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=minzix&theme=graywhite&show_icons=true" alt="GitHub Stats" />
@@ -76,5 +75,4 @@
 <div align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzix&layout=compact&theme=graywhite" alt="Top Languages" />
-</div>
--->
+</div>-->
