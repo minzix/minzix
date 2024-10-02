@@ -13,16 +13,26 @@ Here are some ideas to get you started:
 -->
 
 ⚡ About me ... 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ FE Stack ✨</h3>
 <div align="center"> <!--FE-->
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp <!-- react-->
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp <!-- js-->
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp <!-- html-->
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp <!-- css-->
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp
 </div>
 
-<div align="center"> <!--BE-->
-   <!--append here-->
+<h3 align="center">✨ BE Stack ✨</h3>
+<div align="center"> <!--js be: express, mongoDB, node.js-->
+  <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <!--node-->
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <!--express-->
+  <img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <!--mongoDB-->
+</div>
+
+<div align="center"> <!--BE: java, spring, mysql-->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <!--java-->
+  <img src="	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 <br>
@@ -48,6 +58,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+  <img 
+      src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp
 </div>
 
 <br>
@@ -59,7 +71,7 @@ Here are some ideas to get you started:
   </a>
   <a href="mailto:minzikx@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/minzikx@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
