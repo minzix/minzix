@@ -63,7 +63,7 @@
 </div>
 
 <br />
-
+<!--
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
   <!-- GitHub Stats -->
@@ -77,3 +77,4 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzix&layout=compact&theme=graywhite" alt="Top Languages" />
 </div>
+-->
