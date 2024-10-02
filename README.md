@@ -61,18 +61,3 @@
     <img src="https://img.shields.io/badge/minzikx@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
-<br />
-<!--<h3 align="center">GitHub Stats</h3>
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=minzix&theme=graywhite&show_icons=true" alt="GitHub Stats" />
-</div>
-
-<br />
-
-<h3 align="center">Top Languages</h3>
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzix&layout=compact&theme=graywhite" alt="Top Languages" />
-</div>-->
