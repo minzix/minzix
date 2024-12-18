@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
 </div>
 
-<br />
-
 <div align="center">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -17,7 +15,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
-<br />
 
 <div align="center">
   <!-- Java & MySQL -->
@@ -26,7 +23,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-<br />
+
 
 <div align="center">
   <!-- AI & Data -->
