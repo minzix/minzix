@@ -41,15 +41,17 @@
 
 ## Activities
 
+
 | 활동 명 | 구 분 | 맡은 역할 | 활동 기간 | 수료증 링크 |
 |--------|----------|------------|------------|--------------|
-| Codeit PowerBoost 1기 | 동아리 | 백엔드 개발 | 2024.04.01 ~ 2025.02.15 | [수료증 보기](attachment:ca4b15b5-9b3f-4e24-8f3b-121c357f7886:숙명여대_PB_BE_김민지.pdf) |
-| 구름톤 유니브 숙명여대 3기 | 동아리 | 프론트엔드 개발 | 2024.09.01 ~ 2025.01.01 | [수료증 보기](attachment:21f62e17-d00a-4760-8bc2-f185701444f7:구름톤유니브_수료증(FE).pdf) |
-| IT’s U | 동아리 | 카드뉴스 제작, 홈페이지 모니터링 | 2024.03.01 ~ 2025.01.01 | [수료증 보기](attachment:4cb775da-85f8-431a-b6d1-5864aeeb1c15:ITsU_리더십그룹_수료증.pdf) |
-| WIN | 학회 | IT공학부 연구성과 기사 작성, 카드뉴스 제작 | 2024.03.01 ~ 2025.02.01 | [수료증 보기](attachment:8d46db8c-8ddf-4695-9eb8-e272945d7e09:WIN_웹운영팀_활동증빙.pdf) |
+| Codeit PowerBoost 1기 | 동아리 | 백엔드 개발 | 2024.04.01 ~ 2025.02.15 | [수료증 보기](https://github.com/minzix/minzix/blob/main/certificates/숙명여대_PB_BE_김민지_수료증.pdf?raw=true) |
+| 구름톤 유니브 숙명여대 3기 | 동아리 | 프론트엔드 개발 | 2024.09.01 ~ 2025.01.01 | [수료증 보기](https://github.com/minzix/minzix/blob/main/certificates/구름톤유니브_FE_김민지_수료증.pdf?raw=true) |
+| IT’s U | 동아리 | 카드뉴스 제작, 홈페이지 모니터링 | 2024.03.01 ~ 2025.01.01 | [수료증 보기](https://github.com/minzix/minzix/blob/main/certificates/IT'sU_리더십그룹_부원_김민지_수료증.pdf?raw=true) |
+| WIN | 학회 | IT공학부 연구성과 기사 작성, 카드뉴스 제작 | 2024.03.01 ~ 2025.02.01 | [수료증 보기](https://github.com/minzix/minzix/blob/main/certificates/WIN_웹운영팀_부원_김민지_수료증.pdf?raw=true) |
 | 구름톤 유니브 숙명여대 4기 | 동아리 | 프론트엔드 개발 | - | - |
 | TAVE | 동아리 | 백엔드 개발 | - | - |
 | UMC | 동아리 | 백엔드 개발 | - | - |
+
 
 
 ## Projects
