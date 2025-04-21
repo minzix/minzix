@@ -11,14 +11,14 @@
 
 ## 사용해본 언어 및 프레임워크
 
-### 🖥️ Frontend  
+### Frontend  
 <a href="#"><img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="22" /></a>
 
-### ⚙️ Backend  
+### Backend  
 <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="22" /></a>
@@ -26,12 +26,12 @@
 <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="22" /></a>
 
-### 📊 Algorithm & AI  
+### Algorithm & AI  
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffdd54" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="22" /></a>
 
-### ☁️ DevOps  
+### DevOps  
 <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" height="22" /></a>
