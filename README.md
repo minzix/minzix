@@ -37,6 +37,10 @@
 <a href="#"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="22" /></a>
 
+## Certificates
+| 자격증 명              | 취득 일자      | 유효 기간                   | 자격증 보기                                                                  | 비고 |
+|--------------------|------------|-------------------------|-------------------------------------------------------------------------|------|
+| 제54회 SQL 개발자(SQLD) | 2024.09.20 | 2024.09.20 ~ 2026.09.20 | [자격증 보기](https://minzix.github.io/minzix/certificates/SQLD_김민지_자격증.pdf) | -    |
 
 
 ## Activities
