@@ -26,14 +26,8 @@
 <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="22" /></a>
 
-### Algorithm & AI  
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffdd54" height="22" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="22" /></a>
-<a href="#"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="22" /></a>
-
 ### DevOps  
 <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" height="22" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="22" /></a>
 
