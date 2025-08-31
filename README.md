@@ -4,7 +4,6 @@
 - **학교:** 숙명여자대학교 IT공학부 22학번 재학
 - **생년월일:** 2003.04.19  
 - **이메일**: minzikx@sookmyung.ac.kr  
-- **휴대전화**: 010-3262-9869  
 - **블로그**: [https://velog.io/@minjikim/series](https://velog.io/@minjikim/series)
 
 
