@@ -1,13 +1,3 @@
-## About Me
-
-- **이름:** 김민지  
-- **학교:** 숙명여자대학교 IT공학부 22학번 재학
-- **생년월일:** 2003.04.19  
-- **이메일**: minzikx@sookmyung.ac.kr  
-- **블로그**: [https://velog.io/@minjikim/series](https://velog.io/@minjikim/series)
-
-
-
 ## Tech Stacks
 
 ### Frontend  
@@ -35,5 +25,13 @@
 |--------------------|------------|-------------------------|-------------------------------------------------------------------------|------|
 | 제54회 SQL 개발자(SQLD) | 2024.09.20 | 2024.09.20 ~ 2026.09.20 | [자격증 보기](https://minzix.github.io/minzix/certificates/SQLD_김민지_자격증.pdf) | -    |
 | 정보처리기사            | 2025.09.12 | -                       | [자격증 보기](https://minzix.github.io/minzix/certificates/정보처리기사_자격증.pdf) | -    |
+
+## About Me
+
+- **이름:** 김민지  
+- **학교:** 숙명여자대학교 IT공학부 22학번 재학
+- **생년월일:** 2003.04.19  
+- **이메일**: minzikx@sookmyung.ac.kr  
+- **블로그**: [https://velog.io/@minjikim/series](https://velog.io/@minjikim/series)
 
 
