@@ -16,7 +16,7 @@
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="22" /></a>
 
-`DevOps  `
+`DevOps`
 
 <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" height="22" /></a>
@@ -25,10 +25,11 @@
 
 ### Certificates
 
-| 자격증 명              | 취득 일자      | 유효 기간                   | 자격증 보기                                                                  | 비고 |
-|--------------------|------------|-------------------------|-------------------------------------------------------------------------|------|
-| 제54회 SQL 개발자(SQLD) | 2024.09.20 | 2024.09.20 ~ 2026.09.20 | [자격증 보기](https://minzix.github.io/minzix/certificates/SQLD_김민지_자격증.pdf) | -    |
-| 정보처리기사            | 2025.09.12 | -                       | [자격증 보기](https://minzix.github.io/minzix/certificates/정보처리기사_자격증.pdf) | -    |
+| 자격증 명                                                                               | 등급                | 취득 일자      | 유효 기간                   |
+| ----------------------------------------------------------------------------------- | ----------------- | ---------- |-------------------------|
+| [제54회 SQL 개발자(SQLD)](https://minzix.github.io/minzix/certificates/SQLD_김민지_자격증.pdf) | -                 | 2024.09.20 | 2024.09.20 ~ 2026.09.20 |
+| [정보처리기사](https://minzix.github.io/minzix/certificates/정보처리기사_자격증.pdf)               | -                 | 2025.09.12 | -                       |
+| OPIc                                                                                | AL (ADVANCED LOW) | 2025.06.18 | 2025.06.18 ~ 2027.06.18 |
 
 
 
