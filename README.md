@@ -8,12 +8,11 @@
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="22" /></a>
 
 ### Backend  
-<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="22" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="22" /></a>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="22" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="22" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" height="22" /></a>
 
 ### DevOps  
 <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" height="22" /></a>
